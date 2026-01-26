@@ -1,0 +1,26 @@
+# Вложенные Git репозитории
+*/.git/
+
+# Большие файлы
+*.csv
+*.pkl
+*.h5
+*.parquet
+EDA_PRACTICE/EDA_feature_engineering(Kaggle)/hotels.csv
+
+# Временные файлы
+temp_dir/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
