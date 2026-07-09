@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+catboost
+pandas
+prometheus-client
